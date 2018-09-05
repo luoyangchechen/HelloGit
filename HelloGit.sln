@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HelloGit", "HelloGit\HelloGit.vcxproj", "{15DF7916-4017-4C1F-807E-BA0AD289A887}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15DF7916-4017-4C1F-807E-BA0AD289A887}.Debug|Win32.ActiveCfg = Debug|Win32
+		{15DF7916-4017-4C1F-807E-BA0AD289A887}.Debug|Win32.Build.0 = Debug|Win32
+		{15DF7916-4017-4C1F-807E-BA0AD289A887}.Release|Win32.ActiveCfg = Release|Win32
+		{15DF7916-4017-4C1F-807E-BA0AD289A887}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
